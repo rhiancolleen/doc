@@ -1,0 +1,8 @@
+{
+  "name": "selfpic-entry-gateway",
+  "version": "1.0.0",
+  "description": "Self-Pic Photo Studio: entry landing and gateway module.",
+  "type": "module",
+  "scripts": { "start": "npx serve .", "test": "node --test" },
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "selfpic-digital-receipt",
+  "version": "1.0.0",
+  "description": "Self-Pic Photo Studio: digital receipt and barcode module.",
+  "type": "module",
+  "scripts": { "start": "npx serve .", "test": "node --test" },
+  "license": "MIT"
+}

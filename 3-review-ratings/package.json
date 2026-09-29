@@ -1,0 +1,8 @@
+{
+  "name": "selfpic-review-ratings",
+  "version": "1.0.0",
+  "description": "Self-Pic Photo Studio: review and ratings feedback module.",
+  "type": "module",
+  "scripts": { "start": "npx serve .", "test": "node --test" },
+  "license": "MIT"
+}
